@@ -1,5 +1,5 @@
 %%
-%% Copyright (c) 2013-2017 EMQ Enterprise Inc.
+%% Copyright (c) 2013-2018 EMQ Enterprise Inc.
 %%
 
 -module(emq_mod_subscription).
